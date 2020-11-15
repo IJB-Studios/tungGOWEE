@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../AngryBirdsStage5-master"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "MatterJSBoilerPlate-master"
+	}
+}
